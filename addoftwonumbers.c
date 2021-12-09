@@ -11,5 +11,6 @@ void main()
         if((t+m==n)&&(t!=m))
         printf("%d + %d\n ",t,m);   
         m--;
- }
+    }
+    printf("hi");
 }
